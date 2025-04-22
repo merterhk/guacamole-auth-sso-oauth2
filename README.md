@@ -11,7 +11,7 @@ This project provides an OAuth2-based authentication extension for [Apache Guaca
 ```/etc/guacamole/extensions/```
 
 
-3. Add the following configuration to your `guacamole.properties` file, adjusting values according to your OAuth2 provider.
+2. Add the following configuration to your `guacamole.properties` file, adjusting values according to your OAuth2 provider.
 
 
 ## 🛠️ Sample `guacamole.properties` Configuration
