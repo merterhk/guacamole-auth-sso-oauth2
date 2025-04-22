@@ -1,0 +1,37 @@
+{
+
+    "guacamoleVersion" : "1.5.5",
+
+    "name"      : "OAuth2 Authentication Extension",
+    "namespace" : "oauth2",
+
+    "authProviders" : [
+        "org.apache.guacamole.auth.oauth2.OAuth2AuthenticationProvider"
+    ],
+
+    "css" : [
+        "styles/sso-providers.css"
+    ],
+
+    "html" : [
+        "html/sso-providers.html",
+        "html/sso-provider-oauth2.html"
+    ],
+
+    "translations" : [
+        "translations/ca.json",
+        "translations/de.json",
+        "translations/en.json",
+        "translations/fr.json",
+        "translations/ja.json",
+        "translations/ko.json",
+        "translations/pt.json",
+        "translations/ru.json",
+        "translations/zh.json"
+    ],
+
+    "js" : [
+        "oauth2.min.js"
+    ]
+
+}
